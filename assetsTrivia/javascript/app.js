@@ -150,14 +150,14 @@ var answerArray =   [["1 pound of heroin", "Ferrari", "2 pizzas", "Painting"],
 ["Hard but possible", "No", "Yes", "Only if it meets certain criteria"],
 ["Beijing", "New York","London","Vancouver"]];
 
-var imageArray =     ["<img class='center-block img-right' width = '370' src=>",
-"<img class='center-block img-right' width = '370' src=>",
-"<img class='center-block img-right' width = '370' src=>",
-"<img class='center-block img-right' width = '370' src=>",
-"<img class='center-block img-right'width = '370' src=>",
-"<img class='center-block img-right'width = '370' src=>",
-"<img class='center-block img-right'width = '370' src=>",
-"<img class='center-block img-right'width = '370' src=>"];
+var imageArray =     ["<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
+"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>"];
 
 var correctAnswers = ["C. 2 pizzas", "A. 10,000", "D. Satoshi Nakamoto", "C. 21 million",
                       "D. Overstock", "A. Around 1500", "B. No", "D. Vancouver"];
