@@ -150,14 +150,14 @@ var answerArray =   [["1 pound of heroin", "Ferrari", "2 pizzas", "Painting"],
 ["Hard but possible", "No", "Yes", "Only if it meets certain criteria"],
 ["Beijing", "New York","London","Vancouver"]];
 
-var imageArray =     ["<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right' width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>",
-"<img class='center-block img-right'width = '370' src='assetsTrivia/images/bitcoinback.png'>"];
+var imageArray =     ["<img class='center-block img-right' width = '370' src='https://media.giphy.com/media/10kxE34bJPaUO4/giphy-downsized.gif'>",
+"<img class='center-block img-right' width = '370' src='https://media.giphy.com/media/9M4m0A3rcE58s/giphy-downsized.gif'>",
+"<img class='center-block img-right' width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>",
+"<img class='center-block img-right' width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>",
+"<img class='center-block img-right'width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>",
+"<img class='center-block img-right'width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>",
+"<img class='center-block img-right'width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>",
+"<img class='center-block img-right'width = '370' src='https://media.giphy.com/media/ez1LtcbtTAV6U/giphy-downsized.gif'>"];
 
 var correctAnswers = ["C. 2 pizzas", "A. 10,000", "D. Satoshi Nakamoto", "C. 21 million",
                       "D. Overstock", "A. Around 1500", "B. No", "D. Vancouver"];
